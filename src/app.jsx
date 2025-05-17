@@ -11,13 +11,13 @@ export function App() {
         <a href="https://vite.dev" target="_blank"></a>
         <a href="https://preactjs.com" target="_blank"></a>
       </div>
-      <h1>Vite + Preact</h1>
+      <h1>Frontend Development Engineer</h1>
       <div class="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
         </button>
         <p>
-          Edit <code>src/app.jsx</code> and save to test HMR
+          Edit <code>src/app.jsx</code> Frontend Development Engineer
         </p>
       </div>
       <p>
